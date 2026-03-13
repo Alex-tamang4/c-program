@@ -1,7 +1,7 @@
 //program to make a quiz game
 #include<stdio.h>
 int main(){
-	int i,ans;
+	int i;
 	printf("What is the full form of HTML");
 	printf("\n1.Hyper Text Markup language");
 	printf("\n2.Hyper transfer Markup language");
