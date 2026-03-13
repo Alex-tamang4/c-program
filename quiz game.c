@@ -5,8 +5,8 @@ int main(){
 	printf("What is the full form of HTML");
 	printf("\n1.Hyper Text Markup language");
 	printf("\n2.Hyper transfer Markup language");
-	printf("\n3.Hyper Text message logic");
-	printf("\n4.Hyper Text Markup language");
+	printf("\n3.Hyper Text markups logic");
+	printf("\n4.Hyper Text message language");
 	printf("\nWhich number answer is correct:");
 	scanf("%d",&i);
 	if(i>1){
